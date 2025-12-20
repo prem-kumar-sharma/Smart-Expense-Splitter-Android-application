@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018617349370",
+    "project_id": "smart-expense-splitter-6a4dd",
+    "storage_bucket": "smart-expense-splitter-6a4dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018617349370:android:e5cbf5a5ae1f09db42b543",
+        "android_client_info": {
+          "package_name": "com.example.smartexpensesplitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQ1BLvmpNTREKXt4LUwJ9QzqDpqBFomg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
